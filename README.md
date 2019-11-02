@@ -7,12 +7,15 @@
 - git add: Add changes from working directory to staging area
 - git commit: Commit changes from staging area to current branch
 - git config: Set or get configuration
+
 - git log: Show a history (aka "log") of project commits
 - git checkout: Check out branch (update HEAD and apply changes to working directory)
 - git branch -c: Create a branch
 - git branch: list branches
 - git merge: Merge changes from different branches
 - git checkout -b: Create branch, then check it out
+- git stash: Stash changes from working directory
+- git stash pop: Apply stashed changes to working directory
 
 ## What's a branch?
 
